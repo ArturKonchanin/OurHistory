@@ -1,0 +1,77 @@
+body {
+  background-color: #7572b8;
+  background-size: cover;
+  color: #FFFFFF;
+  font-family: "Marck Script", cursive;
+  font-family: "Rouge Script", cursive;
+}
+
+header {
+  color: white;
+  text-align: center;
+  font-size: 100px;
+  font-family: "Rouge Script", cursive;
+  margin-bottom: 50px;
+}
+
+.download {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.download a {
+  text-decoration: none;
+  color: #FFFFFF;
+  font-size: 50px;
+  font-family: "Marck Script", cursive;
+  
+}
+
+.download a:hover {
+  color: rgb(24, 43, 97);
+}
+
+.download-button {
+  align-items: center;
+  background-color: transparent;
+  border: none;
+}
+
+.header_block {
+  display: flex;
+  justify-content: space-between;
+  min-height: 80vh;
+  padding-left: 9%;
+  padding-right: 9%;
+
+}
+
+.center {
+  text-align: center;
+}
+.color2 {
+  background-color: black;
+}
+
+.text {
+  align-self: center;
+  color: white;
+  font-size: 40px;
+  font-family: "Marck Script", cursive;
+  width: 45%;
+}
+
+.header_img {
+  width: 35%;
+  background-image: url(./img/bcgrd.jpg);
+  background-size: cover;
+  border-radius: 5%;
+}
+
+.text-block {
+  margin-top: 40px;
+  font-size: 40px;
+  font-family: "Marck Script", cursive;
+  padding-left: 9%;
+  padding-right: 9%;
+}
